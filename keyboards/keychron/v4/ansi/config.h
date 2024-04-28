@@ -22,7 +22,7 @@
 
 /* Enable CapsLcok LED*/
 #define CAPS_LOCK_LED_INDEX 28
-#undef TAPPING_TOGGLE
+        #undef TAPPING_TOGGLE
 #define TAPPING_TOGGLE 2
 
 
